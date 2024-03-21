@@ -1,0 +1,21 @@
+@media (max-width: 600px) {
+    .IconeLogOut {
+        display: none;
+    }
+
+    #orc01 {
+        justify-content: center;
+    }
+
+    #orc02 {
+        margin-left: 0;
+    }
+
+    #orc03 {
+        margin-left: auto;
+    }
+
+    #orc04 {
+        width: 110%;
+    }
+}

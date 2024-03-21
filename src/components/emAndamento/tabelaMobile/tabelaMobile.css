@@ -1,0 +1,59 @@
+.c-tabela {
+    flex-direction: column;
+}
+
+.ptotal {
+    text-align: center;
+}
+
+
+.progress {
+    height: 20px;
+    background-color: lightgrey;
+}
+
+.lds-ring_login {
+    position: absolute;
+    margin-left: 30%;
+
+}
+
+.expanded-table-normal-cell {
+    border-radius: 10px;
+    background-color: #e7e9ed;
+}
+
+#st-01 {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#st-02 {
+    font-style: italic;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#st-03 {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#nd01 {
+    margin: 0;
+    padding: 0;
+
+}
+
+.p-mob01 {
+    width: 100%;
+}
+
+#barra-mobile {
+    padding: 0;
+}
+
+#cbp01 {
+    box-shadow: 0px 4px 3px rgba(0, 2, 5, 0.60);
+    border-radius: 10px;
+}

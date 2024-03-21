@@ -1,0 +1,31 @@
+.icone {
+    margin-right: 1rem;
+}
+
+.iconMenu {
+    visibility: hidden;
+}
+
+#subItem {
+
+    padding-right: 0;
+    float: right;
+}
+
+
+
+@media (max-width: 600px) {
+    .iconMenu {
+        visibility: visible;
+        position: absolute;
+        right: 5px;
+        margin-top: 5px;
+    }
+
+}
+
+@media (min-width: 601px) {
+    .nav-LogOut {
+        display: none;
+    }
+}

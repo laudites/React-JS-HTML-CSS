@@ -1,0 +1,49 @@
+#pp001 {
+    overflow: auto;
+    max-height: 60vh;
+}
+
+.ds01 {
+    cursor: pointer;
+}
+
+.inds01 {
+    border: none;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+#hd01 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#hd02 {
+    width: 45%;
+    margin: 10px
+}
+
+#hd03 {
+    margin: 10px;
+    width: 45%
+}
+
+#hd04 {
+    height: 100%
+}
+
+@media (max-width: 600px) {
+    #hd01 {
+        display: block;
+    }
+
+    #hd02 {
+        width: 100%;
+    }
+
+    #hd03 {
+        width: 100%
+    }
+
+}

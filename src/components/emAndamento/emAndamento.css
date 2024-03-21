@@ -1,0 +1,9 @@
+#barraProgresso {
+    cursor: pointer;
+}
+
+@media (max-width: 600px) {
+    .table-responsive table {
+        flex-direction: column;
+    }
+}

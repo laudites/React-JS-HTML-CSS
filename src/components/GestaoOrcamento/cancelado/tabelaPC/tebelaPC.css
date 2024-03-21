@@ -1,0 +1,42 @@
+.subtelaroxo {
+    text-align: center;
+}
+
+.details-control {
+    cursor: pointer;
+}
+
+.progress {
+    height: 20px;
+}
+
+.lds-ring_login {
+    position: absolute;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+.expanded-table-normal-cell {
+    border-radius: 10px;
+    background-color: #e7e9ed;
+}
+
+#st-01 {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#st-02 {
+    font-style: italic;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#st-03 {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.bp01 {
+    width: 100%;
+}
